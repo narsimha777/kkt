@@ -46,7 +46,7 @@ function KKT() {
     }
 
     function handlereadme() {
-            alert("USE x1 and x2 as variables \nUSE 2nd degree expressions to avoid deifferentiation errors \nIf the solution is not displayed then equations are not unique in any one of the cases. (Try another equation)");
+            alert("USE x1 and x2 as variables \nUSE 2nd degree expressions to avoid differentiation errors \nIf the solution is not displayed then equations are not unique in any one of the cases. (Try another equation)");
        };
 
     return (
